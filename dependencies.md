@@ -1,5 +1,5 @@
 # Google Apps Script Project: SheetEfxDemo
-This repo (SheetEfxDemo) was automatically updated on 20 December 2017 13:06:30 GMT by GasGit
+This repo (SheetEfxDemo) was automatically updated on 11 January 2018 18:07:15 GMT by GasGit
 
 For more information see the [desktop liberation site](http://ramblings.mcpher.com/Home/excelquirks/drivesdk/gettinggithubready "desktop liberation") or [contact me on G+](https://plus.google.com/+BruceMcpherson "Bruce McPherson - GDE")
 ## Details for Apps Script project SheetEfxDemo
@@ -9,7 +9,6 @@ The shared link for [SheetEfxDemo is here](https://script.google.com/d/1iD2DKDTC
 ### Modules of SheetEfxDemo.gs included in this repo
 *name*|*type*
 --- | --- 
-Addon| server_js
 Triggers| server_js
 index| html
 cdn.css| html
@@ -19,13 +18,14 @@ appmarkup| html
 cdn| html
 main.js| html
 Utils| server_js
+Server| server_js
+Addon| server_js
 App| server_js
 Client| server_js
-Home| server_js
 DomUtils| server_js
-Provoke| server_js
+Home| server_js
 Include| server_js
-Server| server_js
+Provoke| server_js
 Render| server_js
 ### Directly referenced libraries
 *library*|*identifier*|*key*|*version*|*dev mode*|*source*|
