@@ -1,5 +1,5 @@
 # Google Apps Script Project: SheetEfxDemo
-This repo (SheetEfxDemo) was automatically updated on 11 January 2018 18:07:15 GMT by GasGit
+This repo (SheetEfxDemo) was automatically updated on 31 October 2018 11:43:31 GMT by GasGit
 
 For more information see the [desktop liberation site](http://ramblings.mcpher.com/Home/excelquirks/drivesdk/gettinggithubready "desktop liberation") or [contact me on G+](https://plus.google.com/+BruceMcpherson "Bruce McPherson - GDE")
 ## Details for Apps Script project SheetEfxDemo
@@ -27,16 +27,19 @@ Home| server_js
 Include| server_js
 Provoke| server_js
 Render| server_js
+appsscript| json
 ### Directly referenced libraries
 *library*|*identifier*|*key*|*version*|*dev mode*|*source*|
 --- | --- | --- | --- | --- | --- 
-cSheetEfx| cSheetEfx|M0IpLO0u2QF3dlz994RwQOyz3TLx7pV4j|2|no|[here](libraries/cSheetEfx "library source")
+cSheetEfx| cSheetEfx|1X33G3XxC-ulHVaS1gDTsqT3g3-BQ_YaWk1_jhOe-UhZwAo_n40IdW1S1|2|no|[here](libraries/cSheetEfx "library source")
 ### All dependencies and sub dependencies
 *library*|*identifier*|*key*|*version*|*dev mode*|*source*|
 --- | --- | --- | --- | --- | --- 
-cSheetEfx| cSheetEfx|M0IpLO0u2QF3dlz994RwQOyz3TLx7pV4j|2|no|[here](libraries/cSheetEfx "library source")
-cEffexApiClient| cEffexApiClient|M0ZoQipQg9qyYKGD-uPROISz3TLx7pV4j|14|no|[here](libraries/cEffexApiClient "library source")
+cSheetEfx| cSheetEfx|1X33G3XxC-ulHVaS1gDTsqT3g3-BQ_YaWk1_jhOe-UhZwAo_n40IdW1S1|2|no|[here](libraries/cSheetEfx "library source")
+cEffexApiClient| cEffexApiClient|19rhki6VDTWk4v1RDb6u1d5E-nNaQq8sXCnRnFzUpp4V4lmZ9Z6R_PP9n|14|no|[here](libraries/cEffexApiClient "library source")
 ### Enabled Google Services
 no libraries discovered
-###Need more detail ?
+### Scopes required
+no scopes discovered
+### Need more detail ?
 You can see [full project info as json here](info.json)
