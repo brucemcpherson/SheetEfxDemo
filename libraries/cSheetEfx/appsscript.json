@@ -1,0 +1,11 @@
+{
+  "timeZone": "Europe/London",
+  "dependencies": {
+    "libraries": [{
+      "userSymbol": "cEffexApiClient",
+      "libraryId": "19rhki6VDTWk4v1RDb6u1d5E-nNaQq8sXCnRnFzUpp4V4lmZ9Z6R_PP9n",
+      "version": "14"
+    }]
+  },
+  "exceptionLogging": "STACKDRIVER"
+}
