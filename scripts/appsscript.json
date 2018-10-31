@@ -1,0 +1,11 @@
+{
+  "timeZone": "Europe/London",
+  "dependencies": {
+    "libraries": [{
+      "userSymbol": "cSheetEfx",
+      "libraryId": "1X33G3XxC-ulHVaS1gDTsqT3g3-BQ_YaWk1_jhOe-UhZwAo_n40IdW1S1",
+      "version": "2"
+    }]
+  },
+  "exceptionLogging": "STACKDRIVER"
+}
